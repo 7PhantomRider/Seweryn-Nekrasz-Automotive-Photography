@@ -1,0 +1,401 @@
+body
+{
+ animation-name: fade;
+ animation-duration: 1.5s;
+ margin-left: 0px;
+ margin-top: 0px;
+ width: 1903px;
+ background-color: #000000;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#container
+{
+  height: 100%;
+  width: 1903px;
+}
+
+#logo1
+{
+  position: absolute;
+  margin-left: 40px;
+  margin-top: 15px;
+}
+
+#topbar
+{
+  background-color: #000000;
+  color: white;
+  height: 50px;
+  width: 1903px;
+
+}
+
+#pasek1
+{
+  background-color: #ffffff;
+  width: 1903px;
+  height: 5px;
+}
+
+#slider
+{
+ margin-top: 0px;
+}
+
+#tekst1
+{
+  font-size: 25px;
+  margin: 100px;
+  font-family: "Kufam";
+  text-align: center;
+  float: center;
+  color: #FFFFFF;
+}
+
+#tekstb
+{
+  font-size: 40px;
+  margin: 100px;
+  font-family: "Kufam";
+  text-align: center;
+  float: center;
+  color: #FFFFFF;
+}
+
+#tekstg
+{
+  font-size: 40px;
+  margin: 100px;
+  font-family: "Kufam";
+  text-align: center;
+  float: center;
+  color: #5df05d;
+}
+
+#tekstr
+{
+  font-size: 40px;
+  margin: 100px;
+  font-family: "Kufam";
+  text-align: center;
+  float: center;
+  color: rgba(228, 35, 32, 1);
+}
+
+#pasek2
+{
+  padding: 25px;
+  font-size: 25px;
+  font-family: "Kufam";
+  text-align: center;
+  float: center;
+  color: #ffffff;
+  background-color: #585858;
+}
+
+#logo2
+{
+  position: absolute;
+  margin-left: 40px;
+  margin-top: -40px;
+}
+
+#tekst34
+{
+  height: 950px;
+  font-size: 25px;
+  font-family: "Kufam";
+  text-align: center;
+  margin-top: 150px;
+  margin-bottom: 150px;
+  margin-left: 850px;
+  color: #FFFFFF;
+}
+
+#tekst35
+{
+  height: 650px;
+  font-size: 25px;
+  font-family: "Kufam";
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 200px;
+  margin-left: 950px;
+  margin-right: 100px;
+  color: #FFFFFF;
+}
+
+#tekst36
+{
+  animation-name: fade;
+  animation-duration: 1.5s;
+  padding-left: 30px;
+  padding-right: 30px;
+  transition: 0.7s ease;
+  background-color: #585858;
+  height: 763px;
+  font-size: 25px;
+  font-family: "Kufam";
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 200px;
+  margin-left: 950px;
+  margin-right: 100px;
+  color: #FFFFFF;
+}
+
+#tekst37
+{
+  animation-name: fade;
+  animation-duration: 1.5s;
+  padding-left: 100px;
+  padding-right: 950px;
+  transition: 0.7s ease;
+  background-color: #585858;
+  height: 763px;
+  font-size: 25px;
+  font-family: "Kufam";
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 200px;
+  margin-left: 0px;
+  margin-right: 0px;
+  color: #FFFFFF;
+}
+
+#indicatorr
+{
+  position: absolute;
+  margin-bottom: 200px;
+  margin-left: 0px;
+  height: 763px;
+  width: 25px;
+  background-color: rgba(228, 35, 32, 1);
+}
+
+#indicatorg
+{
+  position: absolute;
+  margin-bottom: 200px;
+  margin-left: 0px;
+  height: 763px;
+  width: 25px;
+  background-color: #5df05d;
+}
+
+#img35
+{
+  animation-name: fade;
+  animation-duration: 1.5s;
+  float: left;    
+  margin-top: -850px;
+  margin-left: 100px;
+}
+
+#img36
+{
+  animation-name: fade;
+  animation-duration: 1.5s;
+  transition: 0.7s ease;
+  float: left;    
+  margin-top: -963px;
+  margin-left: 100px;
+}
+
+#img37
+{
+  animation-name: fade;
+  animation-duration: 1.5s;
+  transition: 0.7s ease;
+  float: right;    
+  margin-top: -963px;
+  margin-right: 100px;
+}
+
+.option2
+{
+  color: #FFFFFF;
+  padding: 20px 70px 20px 70px;
+  background-color: rgb(87, 87, 87);
+  margin-top: 5px;
+  margin-right: 400px;
+  float: right;
+  text-align: center;
+}
+
+#img34
+{
+  float: left;    
+  margin-top: -1130px;
+  margin-left: 100px;
+}
+
+#pasek3
+{
+  background-color: #ffffff;
+  width: 1903px;
+  height: 5px;
+}
+
+#stopka
+{
+  background-color: #000000;
+  font-size: 20px;
+  font-family: "Kufam";
+  color: white;
+  height: 165px;
+  width: 100%;
+  text-align: center;
+}
+
+#stopka2
+{
+  font-size: 15px;
+  font-family: "Kufam";
+  color: white;
+  text-align: center;
+}
+
+#logo3
+{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.option
+{
+  margin-top: 5px;
+  margin-right: 150px;
+  float: right;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.option3
+{
+  margin-top: 5px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.option:hover
+{
+	transition: color 0.7s ease;
+  cursor: pointer;
+	color: rgba(228, 35, 32, 1);
+}
+
+.option2:hover
+{
+	transition: color 0.7s ease-in;
+  cursor: pointer;
+	color: rgb(0, 0, 0);
+  transition: background-color 0.7s ease-out;
+  background-color: rgb(255, 255, 255);
+}
+
+.option3:hover
+{
+	transition: color 0.7s ease;
+  cursor: pointer;
+	color: rgba(228, 35, 32, 1);
+}
+
+a.gora
+{
+  color: #FFFFFF;
+}
+
+
+/*style do slidera*
+				
+				/* KONTENER SLIDERA */
+				.slideshow-container {
+				  max-width: 1000px;
+          max-height: 871px;
+				  position: relative;
+				  margin: 0px;
+				}
+				
+				/* PRZYCISKI '	NASTĘPNY" I "POPRZEDNI" */
+				.prev, .next {
+				  cursor: pointer;
+				  position: absolute;
+				  top: 50%;
+				  width: auto;
+				  padding: 16px;
+				  margin-top: 0px;
+				  color: white;
+				  font-weight: bold;
+				  font-size: 18px;
+				  transition: 0.6s ease;
+				  border-radius: 0 3px 3px 0;
+				  user-select: none;
+				}
+				
+				/* PRZYCISK NASTĘPNY */
+				.next 
+				{
+				  margin-left: 1860px;
+				  border-radius: 3px 0 0 3px;
+				}
+				
+				/* TŁO PRZYCISKÓW */
+				.prev:hover, .next:hover 
+				{
+				  background-color: rgba(228, 35, 32, 1);
+				}
+				/*GDY AKTYWNY*/
+				.active
+				{
+				  background-color: rgba(228, 35, 32, 1);
+				}
+				
+				/* ANIMACJA WYGASZANIA */
+				.fade {
+				  -webkit-animation-name: fade;
+				  -webkit-animation-duration: 1.5s;
+				  animation-name: fade;
+				  animation-duration: 1.5s;
+				}
+				/*WYGASZANIE*/
+				@-webkit-keyframes fade 
+				{
+				  from {opacity: .4} 
+				  to {opacity: 1}
+				}
+				
+				@keyframes fade 
+				{
+				  from {opacity: .4} 
+				  to {opacity: 1}
+				}
+
+/*style do progress bara*/
+
+.header {
+  position: fixed;
+  bottom: 0;
+  z-index: 1;
+  width: 100%;
+  background-color: #585858;
+}
+
+.progress-bar {
+  height: 5px;
+  background: #f1f1f1;
+  width: 0%;
+}
+				
+			
+
+
+
+
+
+
+
+
+
