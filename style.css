@@ -88,7 +88,7 @@ body
   padding: 25px;
   font-size: 25px;
   font-family: "Kufam";
-  text-align: center;
+  text-align: center;s
   float: center;
   color: #ffffff;
   background-color: #585858;
@@ -280,6 +280,16 @@ body
   color: #FFFFFF;
 }
 
+.option4
+{
+  margin-top: 5px;
+  margin-left: 50px;
+  text-align: left;
+  float: left;
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
 .option:hover
 {
 	transition: color 0.7s ease;
@@ -303,11 +313,26 @@ body
 	color: rgba(228, 35, 32, 1);
 }
 
+.option4:hover
+{
+	transition: color 0.7s ease;
+  cursor: pointer;
+	color: rgba(228, 35, 32, 1);
+}
+
 a.gora
 {
   color: #FFFFFF;
 }
 
+#gallery
+{
+  border-right: 2px solid rgb(255, 255, 255);
+  border-left: 2px solid rgb(255, 255, 255);
+  border-top: 2px solid rgb(255, 255, 255);
+  width: 1899px;
+  position:relative;
+}
 
 /*style do slidera*
 				
@@ -388,7 +413,7 @@ a.gora
   background: #f1f1f1;
   width: 0%;
 }
-				
+
 			
 
 
